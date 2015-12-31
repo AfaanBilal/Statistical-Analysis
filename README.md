@@ -4,8 +4,9 @@ Statistical Analysis
 Author: **Afaan Bilal ([@AfaanBilal](https://github.com/AfaanBilal))**   
 Author URL: **[Google+](https://google.com/+AfaanBilal)**
 
+##### Blog Post: [CodeRevolution - Statistical Analysis: An All-Round Software for Basic Statistics (Class XI)](http://www.coderevolution.tk/2015/05/statistical-analysis-all-round-software.html)
 ##### Project Page: [afaan.cu.cc/Statistical-Analysis](http://afaan.cu.cc/Statistical-Analysis)
-##### Download: [Setup, V1.0.0](http://afaan.cu.cc/Statistical-Analysis/pre-built/Statistical-Analysis-1.0.0-Setup.zip)
+##### Download: [Setup, V1.0.0](http://afaan.cu.cc/Statistical-Analysis/Statistical-Analysis-1.0.0-Setup.zip)
 
 ## Introduction
 **Statistical Analysis** is a C# .NET Windows desktop app to easily calculate frequency, mean, 
