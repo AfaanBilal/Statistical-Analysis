@@ -1,0 +1,81 @@
+[General]
+Program name = Statistical Analysis
+Program version = 1.0.0
+Windows 2000 = 1
+Windows XP = 1
+Windows Server 2003 = 1
+Windows Vista = 1
+Windows Server 2008 = 1
+Windows 7 = 1
+Windows 8 = 1
+Company name = AMX Infinity
+Website = http://www.amxinfinity.tk
+SFA = 0
+DFA = 1
+Comp = 1
+[Graphics]
+Wizard image = D:\System.AM\All Wallpapers\IF1.jpg
+Header image = C:\Program Files (x86)\solicus\InstallForge\Images\Header_1.bmp
+Install-icon image = E:\Projects\C#\Statistical Analysis\Statistical Analysis\icon.ico
+Show Label = 1
+Windows style = 1
+XpStyle = 1
+[Files]
+Include Zipfile = 0
+Zipfile = 
+Installation path = <programfiles>\<company>\<appname>\
+Autcip = 1
+[Uninstall]
+Vwau = 1
+Website = http://www.amxinfinity.tk
+Include uninstaller = 1
+Uninstaller filename = Uninstall Statistical Analysis
+[Licence]
+Licence dialog = 1
+[Finish]
+Sart program = 1
+Reboot computer = 0
+Execute DLL: = 0
+Program = <installpath>\Statistical Analysis.exe
+Dll = 
+[Shortcuts]
+Allowtc = 0
+Shortcut path = <company>\<appname>\
+[Serialoptions]
+Allows = 0
+Number = 10
+[SplashScreen]
+Image = 
+Sound = 
+Time = 
+PlaySound = 0
+Allow = 0
+[Build]
+File = E:\Projects\C#\Statistical Analysis\Statistical Analysis Setup.exe
+[Updater]
+Allow = 0
+1 = <appname>
+2 = <appversion>
+3 = http://
+4 = http://
+5 = http://
+6 = Update
+Language = 0
+RunProg = 
+RunProgs = 0
+Execdlls = 0
+[Languages]
+2
+[Files/Dirs]
+E:\Projects\C#\Live HTML Editor\Live HTML Editor\bin\Release\Live HTML Editor.exe
+1.4 MB
+exe
+[Licence_Begin]
+[Licence_End]
+[Registry]
+[Variables]
+[SCs]
+[IFP_End]
+[Serials]
+[Serials_End]
+[Commands]
