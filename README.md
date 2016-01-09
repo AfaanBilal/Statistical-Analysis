@@ -8,7 +8,7 @@ Author URL: **[Google+](https://google.com/+AfaanBilal)**
 ##### Project Page: [https://afaan.ml/Statistical-Analysis](https://afaan.ml/Statistical-Analysis)
 ##### Download: [Setup, V1.0.0](https://afaan.ml/Statistical-Analysis/Statistical-Analysis-1.0.0-Setup.zip)
 
-#### Android App: [Statistical-Analysis-Android](https://github.com/Statistical-Analysis-Android)
+#### Android App: [Statistical-Analysis-Android](https://github.com/AfaanBilal/Statistical-Analysis-Android)
 
 ## Introduction
 **Statistical Analysis** is a C# .NET Windows desktop app to easily calculate frequency, mean, 
