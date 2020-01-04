@@ -5,7 +5,7 @@ Author: **Afaan Bilal ([@AfaanBilal](https://github.com/AfaanBilal))**
 Author URL: **[Google+](https://google.com/+AfaanBilal)**
 
 ##### Blog Post: [CodeRevolution - Statistical Analysis: An All-Round Software for Basic Statistics (Class XI)](https://www.coderevolution.tk/2015/05/statistical-analysis-all-round-software.html)
-##### Project Page: [https://afaan.ml/Statistical-Analysis](https://afaan.ml/Statistical-Analysis)
+##### Project Page: [https://afaan.me/Statistical-Analysis](https://afaan.me/Statistical-Analysis)
 ##### Download: [Setup, V1.0.0](https://afaan.ml/Statistical-Analysis/Statistical-Analysis-1.0.0-Setup.zip)
 
 #### Android App: [Statistical-Analysis-Android](https://github.com/AfaanBilal/Statistical-Analysis-Android)
