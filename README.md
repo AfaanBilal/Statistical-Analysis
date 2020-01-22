@@ -1,8 +1,7 @@
 Statistical Analysis
 ==============
 
-Author: **Afaan Bilal ([@AfaanBilal](https://github.com/AfaanBilal))**   
-Author URL: **[Google+](https://google.com/+AfaanBilal)**
+Author: **[Afaan Bilal](https://afaan.me)**  
 
 ##### Blog Post: [CodeRevolution - Statistical Analysis: An All-Round Software for Basic Statistics (Class XI)](https://www.coderevolution.tk/2015/05/statistical-analysis-all-round-software.html)
 ##### Project Page: [https://afaan.me/Statistical-Analysis](https://afaan.me/Statistical-Analysis)
